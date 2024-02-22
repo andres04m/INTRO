@@ -1,5 +1,5 @@
 import streamlit as st 
-form PTL import Image
+from PTL import Image
 
 st.title("Mi primera app!!")
 
